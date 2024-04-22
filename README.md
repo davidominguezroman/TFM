@@ -1,2 +1,5 @@
-# TFM
-Trabajo de fin de máster: creación de un libro/cuaderno online para educación secundaria obligatoria
+# Trabajo de fin de máster: creación de un libro/cuaderno online para educación secundaria obligatoria.
+En este proyecto se creará un libro/cuaderno online para estudiantes de 4º de la ESO, en concreto sobre el tema de cinemática (poner saber básico). En este cuaderno aparecerán animaciones del PhET de Colorado (poner enlace web), así como widgets interactivos que permitan visualizar las trayectorias de los cuerpos en los ejercicios, comprobar los resultados. Se pretende brindar al alumnado con la posibilidad de tener un libro, que pueda imprimirse, que siempre esté actualizado y con la ventaja de poder comprobar por sí mismo la veracidad de sus resultados, así como poder experimentar con diferentes animaciones y tener acceso a vídeos explicativos y/o divulgativos para profundizar en el estudio.
+
+En un mundo cada vez más digitalizado, el uso de herramientas de comprobación por parte del alumnado que le ayuden en el proceso de enseñanza-aprendizaje es algo que queda relegado al uso de las plataformas dde las editoriales (si las hay), que no siempre dan la oportunidad de poder vislumbrar los resultados obtenidos ni acceder a animaciones de calidad, realizadas con rigor científico y que muestren de forma fehaciente los diversos comportamientos de los fenómenos físicos y químicos que se estudian en la enseñanza obligatoria.
+
